@@ -26,5 +26,5 @@ Frontend Developer focused on building modern and responsive web applications.
 
 📫 Contact:
 
-* Telegram: @your_telegram
-* Email: [your_email@gmail.com](mailto:your_email@gmail.com)
+* Telegram: @syoma_sh
+* Email: [syimykshailoobek@gmail.com](mailto:syimykshailoobek@gmail.com)
